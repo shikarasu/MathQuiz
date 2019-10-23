@@ -1,0 +1,12 @@
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Shi\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CopyComplete
